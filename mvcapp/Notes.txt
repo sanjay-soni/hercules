@@ -1,0 +1,8 @@
+#create mvc app from template
+
+#1. create a solution
+dotnet new sln -n mvcapp
+dotnet new mvc -o mvcapp
+dotnet sln mvcapp.sln add mvcapp/mvcapp.csproj
+
+reference - https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new
