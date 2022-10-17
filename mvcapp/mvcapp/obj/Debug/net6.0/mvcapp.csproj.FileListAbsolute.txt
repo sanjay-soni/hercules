@@ -24,3 +24,45 @@ C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\Rough Work\React SSR\
 C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\Rough Work\React SSR\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.pdb
 C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\Rough Work\React SSR\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.genruntimeconfig.cache
 C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\Rough Work\React SSR\mvcapp\mvcapp\obj\Debug\net6.0\ref\mvcapp.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\appsettings.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.staticwebassets.runtime.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.exe
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.deps.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.runtimeconfig.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\mvcapp.pdb
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\AdvancedStringBuilder.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\JavaScriptEngineSwitcher.V8.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\JSPool.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\ClearScript.Core.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\ClearScript.V8.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\ClearScript.V8.ICUData.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\React.Core.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\ru-RU\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\bin\Debug\net6.0\runtimes\win-x64\native\ClearScriptV8.win-x64.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.csproj.AssemblyReference.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.AssemblyInfoInputs.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.AssemblyInfo.cs
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.RazorAssemblyInfo.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.RazorAssemblyInfo.cs
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\scopedcss\bundle\mvcapp.styles.css
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\scopedcss\projectbundle\mvcapp.bundle.scp.css
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.csproj.CopyComplete
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\refint\mvcapp.dll
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.pdb
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\mvcapp.genruntimeconfig.cache
+C:\Users\Sanjay.Soni\Documents\WorkSpace\Hercules\hercules\mvcapp\mvcapp\obj\Debug\net6.0\ref\mvcapp.dll

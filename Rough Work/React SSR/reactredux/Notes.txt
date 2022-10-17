@@ -1,0 +1,10 @@
+#create react redux project
+
+#1. create a solution
+dotnet new sln -n reactreduxapp
+#2 create react redux project
+dotnet new reactredux -o reactredux
+#3 link it to existing solution
+dotnet sln reactreduxapp.sln add reactredux/reactredux.csproj
+#run project
+dotnet watch run --project reactredux.csproj

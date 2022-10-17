@@ -1,0 +1,6 @@
+#create web app from scratch
+
+#1. create a solution
+dotnet new sln -n webapp
+dotnet new webapp -o webapp
+dotnet sln webapp.sln add webapp/webapp.csproj

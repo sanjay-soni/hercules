@@ -6,3 +6,8 @@ dotnet new mvc -o mvcapp
 dotnet sln mvcapp.sln add mvcapp/mvcapp.csproj
 
 reference - https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new
+
+
+#Install ReactJS.NET
+
+reference -  https://reactjs.net/tutorials/aspnetcore.html

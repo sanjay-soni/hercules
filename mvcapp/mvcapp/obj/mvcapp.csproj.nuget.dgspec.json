@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\Rough Work\\React SSR\\mvcapp\\mvcapp\\mvcapp.csproj": {}
+    "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\mvcapp\\mvcapp\\mvcapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\Rough Work\\React SSR\\mvcapp\\mvcapp\\mvcapp.csproj": {
+    "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\mvcapp\\mvcapp\\mvcapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\Rough Work\\React SSR\\mvcapp\\mvcapp\\mvcapp.csproj",
+        "projectUniqueName": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\mvcapp\\mvcapp\\mvcapp.csproj",
         "projectName": "mvcapp",
-        "projectPath": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\Rough Work\\React SSR\\mvcapp\\mvcapp\\mvcapp.csproj",
+        "projectPath": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\mvcapp\\mvcapp\\mvcapp.csproj",
         "packagesPath": "C:\\Users\\Sanjay.Soni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\Rough Work\\React SSR\\mvcapp\\mvcapp\\obj\\",
+        "outputPath": "C:\\Users\\Sanjay.Soni\\Documents\\WorkSpace\\Hercules\\hercules\\mvcapp\\mvcapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "JavaScriptEngineSwitcher.Extensions.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.19.0, )"
+            },
+            "JavaScriptEngineSwitcher.V8": {
+              "target": "Package",
+              "version": "[3.19.0, )"
+            },
+            "Microsoft.ClearScript.V8.Native.win-x64": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "React.Core": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

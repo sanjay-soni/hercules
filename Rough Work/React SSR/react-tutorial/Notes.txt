@@ -1,0 +1,14 @@
+# check node is available or not 
+node -v
+# initialize project
+npm init
+# install react dependency
+npm install react react-dom
+# insall webpack dependency
+npm install -save-dev webpack webpack-cli
+# webpack loader
+npm install --save-dev babel-loader
+# babel dependency
+npm install --save-dev @babel/core @babel/preset-react
+
+reference - https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0

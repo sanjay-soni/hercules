@@ -13,4 +13,10 @@
     <SourceRoot Include="C:\Users\Sanjay.Soni\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.clearscript.v8.native.win-x64\7.3.1\build\Microsoft.ClearScript.V8.Native.win-x64.props" Condition="Exists('$(NuGetPackageRoot)microsoft.clearscript.v8.native.win-x64\7.3.1\build\Microsoft.ClearScript.V8.Native.win-x64.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_ClearScript_V8_Native_win-x64 Condition=" '$(PkgMicrosoft_ClearScript_V8_Native_win-x64)' == '' ">C:\Users\Sanjay.Soni\.nuget\packages\microsoft.clearscript.v8.native.win-x64\7.3.1</PkgMicrosoft_ClearScript_V8_Native_win-x64>
+  </PropertyGroup>
 </Project>

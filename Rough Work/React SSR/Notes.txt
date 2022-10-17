@@ -1,0 +1,15 @@
+#1 create a web project
+dotnet new webapp -o react-ssr
+dotnet dev-certs https --trust
+
+reference - 
+https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-6.0&tabs=windows
+
+#2 Create a React App
+dotnet new -i React.Template
+dotnet new reactnet-vanilla --force
+dotnet watch run --project react-ssr.csproj
+reference - https://reactjs.net/tutorials/aspnetcore.html
+
+#Questions
+#1. How to make a Template?
