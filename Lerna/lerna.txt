@@ -1,0 +1,32 @@
+Lerna - Tool for javascript monorepos
+
+Solves three biggest problems 
+- links different projects within the repo (bootstrap)
+- runs command against multiple repo
+- manages publish process
+
+Commands 
+- bootstrap
+- version (increment version)
+- publish (tag and publish packages)
+
+
+Bootstrap
+- links different projects within the repo so they can import each other without having to publish anything to NPM.
+
+** Running lerna bootstrap will invoke npm install in each of the packages, and will link local package such that the resulting structure will look like this.
+** By default, Lerna is going to run npm install in every directory which results in node modules duplication. You can dedupe the packages by passing --hoist.
+- lerna bootstrap --hoist
+
+Run a Single Task
+- lerna run test --scope=header
+Run Task Affected by PR 
+- lerna run test --since=origin/main
+Clear Cache
+- lerna run reset
+
+Explore Project graph
+- lerna run graph
+
+Source 
+1. https://nx.dev/getting-started/react-tutorial

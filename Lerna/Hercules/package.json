@@ -1,0 +1,15 @@
+{
+  "name": "hercules",
+  "version": "1.0.0",
+  "description": "hercules main project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lead": "*",
+    "campaign": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
